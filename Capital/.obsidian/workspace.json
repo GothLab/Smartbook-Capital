@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e1d446f494b43da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4540dee03b43ab14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f10fd71501ec17bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20983453f8a84a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2a1bae1c61fd2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0117a63f31f39a1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddc518fb354e3d6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cb2859d3bc64b2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c8d2d0bf09c4bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d0f559dd2f05988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5040468c72ced87e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7543390d3627c40b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27048964033512e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16daa0ebf553e78f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "f10fd71501ec17bf",
+  "lastOpenFiles": [
+    "Capital/03 Том/notes.md",
+    "Capital/03 Том/52.md",
+    "Capital/03 Том/50.md",
+    "Capital/03 Том/49.md",
+    "Capital/03 Том/48.md",
+    "Capital/03 Том/47.md",
+    "Capital/03 Том/46.md",
+    "Capital/03 Том/44.md",
+    "Capital/03 Том/43.md",
+    "Capital/03 Том/42.md",
+    "Capital/03 Том/41.md",
+    "Capital/03 Том/40.md",
+    "Capital/03 Том/39.md",
+    "Capital/03 Том/37.md",
+    "Capital/03 Том/35.md",
+    "Capital/03 Том/34.md",
+    "Capital/03 Том/33.md",
+    "Capital/03 Том/32.md",
+    "Capital/03 Том/31.md",
+    "Capital/03 Том/30.md",
+    "Capital/03 Том/29.md",
+    "Capital/03 Том/28.md",
+    "Capital/03 Том/27.md",
+    "Capital/03 Том/26.md",
+    "Capital/03 Том/25.md",
+    "Capital/03 Том/24.md"
+  ]
+}

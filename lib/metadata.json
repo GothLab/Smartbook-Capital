@@ -1,0 +1,3160 @@
+{
+  "vaultName": "Capital",
+  "lastExport": 1718477100145,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Capital/01 Том/images/i_001.png",
+    "Capital/01 Том/images/i_002.png",
+    "Capital/01 Том/images/i_003.png",
+    "Capital/01 Том/images/i_004.png",
+    "Capital/01 Том/images/i_005.png",
+    "Capital/01 Том/images/i_006.png",
+    "Capital/01 Том/images/i_007.png",
+    "Capital/01 Том/images/i_008.png",
+    "Capital/01 Том/images/i_009.png",
+    "Capital/01 Том/images/i_010.png",
+    "Capital/01 Том/images/i_011.png",
+    "Capital/01 Том/images/i_012.png",
+    "Capital/01 Том/images/i_013.png",
+    "Capital/01 Том/images/i_014.png",
+    "Capital/01 Том/images/i_015.png",
+    "Capital/01 Том/images/i_016.png",
+    "Capital/01 Том/images/i_017.png",
+    "Capital/01 Том/images/i_018.png",
+    "Capital/01 Том/images/i_019.png",
+    "Capital/01 Том/images/i_020.png",
+    "Capital/01 Том/images/i_021.png",
+    "Capital/01 Том/images/i_022.png",
+    "Capital/01 Том/images/i_023.png",
+    "Capital/01 Том/images/i_024.png",
+    "Capital/01 Том/images/i_025.png",
+    "Capital/01 Том/images/i_026.png",
+    "Capital/01 Том/images/i_027.png",
+    "Capital/01 Том/images/i_028.png",
+    "Capital/01 Том/images/i_029.png",
+    "Capital/01 Том/images/i_030.png",
+    "Capital/01 Том/images/i_031.png",
+    "Capital/01 Том/images/i_032.png",
+    "Capital/01 Том/images/i_033.png",
+    "Capital/01 Том/images/i_034.png",
+    "Capital/01 Том/images/i_035.png",
+    "Capital/01 Том/images/i_036.png",
+    "Capital/01 Том/images/i_037.png",
+    "Capital/01 Том/images/i_038.png",
+    "Capital/01 Том/images/i_039.png",
+    "Capital/01 Том/images/i_040.png",
+    "Capital/01 Том/images/i_041.png",
+    "Capital/01 Том/images/i_042.png",
+    "Capital/01 Том/images/i_043.png",
+    "Capital/01 Том/images/i_044.png",
+    "Capital/01 Том/images/i_045.png",
+    "Capital/01 Том/images/i_046.png",
+    "Capital/01 Том/images/i_047.png",
+    "Capital/01 Том/images/i_048.png",
+    "Capital/01 Том/images/i_049.png",
+    "Capital/01 Том/images/i_050.png",
+    "Capital/01 Том/images/i_051.png",
+    "Capital/01 Том/images/i_052.png",
+    "Capital/01 Том/images/i_053.png",
+    "Capital/01 Том/images/i_054.png",
+    "Capital/01 Том/images/i_055.png",
+    "Capital/01 Том/images/i_056.png",
+    "Capital/01 Том/images/i_057.png",
+    "Capital/01 Том/images/i_058.png",
+    "Capital/01 Том/images/i_059.png",
+    "Capital/01 Том/images/i_060.png",
+    "Capital/01 Том/images/i_061.png",
+    "Capital/01 Том/images/i_062.png",
+    "Capital/01 Том/images/i_063.png",
+    "Capital/01 Том/images/i_064.png",
+    "Capital/01 Том/images/i_065.png",
+    "Capital/01 Том/images/i_066.png",
+    "Capital/01 Том/images/i_067.png",
+    "Capital/01 Том/images/i_068.png",
+    "Capital/01 Том/images/i_069.png",
+    "Capital/01 Том/images/i_070.png",
+    "Capital/01 Том/images/i_071.png",
+    "Capital/01 Том/images/i_072.png",
+    "Capital/01 Том/images/i_073.png",
+    "Capital/01 Том/images/i_074.png",
+    "Capital/01 Том/images/i_075.png",
+    "Capital/01 Том/images/i_076.png",
+    "Capital/01 Том/images/i_077.png",
+    "Capital/01 Том/images/i_078.png",
+    "Capital/01 Том/images/i_079.png",
+    "Capital/01 Том/images/i_080.png",
+    "Capital/01 Том/images/i_081.png",
+    "Capital/01 Том/images/i_082.png",
+    "Capital/01 Том/images/i_083.png",
+    "Capital/01 Том/00.md",
+    "Capital/01 Том/01.md",
+    "Capital/01 Том/02.md",
+    "Capital/01 Том/03.md",
+    "Capital/01 Том/04.md",
+    "Capital/01 Том/05.md",
+    "Capital/01 Том/06.md",
+    "Capital/01 Том/07.md",
+    "Capital/01 Том/08.md",
+    "Capital/01 Том/09.md",
+    "Capital/01 Том/10.md",
+    "Capital/01 Том/11.md",
+    "Capital/01 Том/12.md",
+    "Capital/01 Том/13.md",
+    "Capital/01 Том/14.md",
+    "Capital/01 Том/15.md",
+    "Capital/01 Том/16.md",
+    "Capital/01 Том/17.md",
+    "Capital/01 Том/18.md",
+    "Capital/01 Том/19.md",
+    "Capital/01 Том/20.md",
+    "Capital/01 Том/21.md",
+    "Capital/01 Том/22.md",
+    "Capital/01 Том/23.md",
+    "Capital/01 Том/24.md",
+    "Capital/01 Том/25.md",
+    "Capital/01 Том/index.md",
+    "Capital/01 Том/notes.md",
+    "Capital/02 Том/images/cover.jpg",
+    "Capital/02 Том/images/i_001.png",
+    "Capital/02 Том/images/i_002.png",
+    "Capital/02 Том/images/i_003.png",
+    "Capital/02 Том/images/i_004.png",
+    "Capital/02 Том/images/i_005.png",
+    "Capital/02 Том/images/i_006.png",
+    "Capital/02 Том/images/i_007.png",
+    "Capital/02 Том/images/i_008.png",
+    "Capital/02 Том/images/i_009.png",
+    "Capital/02 Том/images/i_010.png",
+    "Capital/02 Том/images/i_011.png",
+    "Capital/02 Том/images/i_012.png",
+    "Capital/02 Том/images/i_013.png",
+    "Capital/02 Том/images/i_014.png",
+    "Capital/02 Том/images/i_015.png",
+    "Capital/02 Том/images/i_016.png",
+    "Capital/02 Том/images/i_017.png",
+    "Capital/02 Том/images/i_018.png",
+    "Capital/02 Том/images/i_019.png",
+    "Capital/02 Том/images/i_020.png",
+    "Capital/02 Том/images/i_021.png",
+    "Capital/02 Том/images/i_022.png",
+    "Capital/02 Том/images/i_023.png",
+    "Capital/02 Том/images/i_024.png",
+    "Capital/02 Том/images/i_025.png",
+    "Capital/02 Том/images/i_026.png",
+    "Capital/02 Том/images/i_027.png",
+    "Capital/02 Том/images/i_028.png",
+    "Capital/02 Том/images/i_029.png",
+    "Capital/02 Том/images/i_030.png",
+    "Capital/02 Том/images/i_031.png",
+    "Capital/02 Том/images/i_032.png",
+    "Capital/02 Том/images/i_033.png",
+    "Capital/02 Том/images/i_034.png",
+    "Capital/02 Том/images/i_035.png",
+    "Capital/02 Том/images/i_036.png",
+    "Capital/02 Том/images/i_037.png",
+    "Capital/02 Том/images/i_038.png",
+    "Capital/02 Том/images/i_039.png",
+    "Capital/02 Том/images/i_040.png",
+    "Capital/02 Том/images/i_041.png",
+    "Capital/02 Том/images/i_042.png",
+    "Capital/02 Том/images/i_043.png",
+    "Capital/02 Том/images/i_044.png",
+    "Capital/02 Том/images/i_045.png",
+    "Capital/02 Том/images/i_046.png",
+    "Capital/02 Том/images/i_047.png",
+    "Capital/02 Том/images/i_048.png",
+    "Capital/02 Том/images/i_049.png",
+    "Capital/02 Том/images/i_050.png",
+    "Capital/02 Том/images/i_051.png",
+    "Capital/02 Том/images/i_052.png",
+    "Capital/02 Том/images/i_053.png",
+    "Capital/02 Том/images/i_054.png",
+    "Capital/02 Том/images/i_055.png",
+    "Capital/02 Том/images/i_056.png",
+    "Capital/02 Том/images/i_057.png",
+    "Capital/02 Том/images/i_058.png",
+    "Capital/02 Том/images/i_059.png",
+    "Capital/02 Том/images/i_060.png",
+    "Capital/02 Том/images/i_061.png",
+    "Capital/02 Том/images/i_062.png",
+    "Capital/02 Том/images/i_063.png",
+    "Capital/02 Том/images/i_064.png",
+    "Capital/02 Том/images/i_065.png",
+    "Capital/02 Том/images/i_066.png",
+    "Capital/02 Том/images/i_067.png",
+    "Capital/02 Том/images/i_068.png",
+    "Capital/02 Том/images/i_069.png",
+    "Capital/02 Том/images/i_070.png",
+    "Capital/02 Том/images/i_071.png",
+    "Capital/02 Том/images/i_072.png",
+    "Capital/02 Том/images/i_073.png",
+    "Capital/02 Том/images/i_074.png",
+    "Capital/02 Том/images/i_075.png",
+    "Capital/02 Том/00.md",
+    "Capital/02 Том/01.md",
+    "Capital/02 Том/02.md",
+    "Capital/02 Том/03.md",
+    "Capital/02 Том/04.md",
+    "Capital/02 Том/05.md",
+    "Capital/02 Том/06.md",
+    "Capital/02 Том/07.md",
+    "Capital/02 Том/08.md",
+    "Capital/02 Том/09.md",
+    "Capital/02 Том/10.md",
+    "Capital/02 Том/11.md",
+    "Capital/02 Том/12.md",
+    "Capital/02 Том/13.md",
+    "Capital/02 Том/14.md",
+    "Capital/02 Том/15.md",
+    "Capital/02 Том/16.md",
+    "Capital/02 Том/17.md",
+    "Capital/02 Том/18.md",
+    "Capital/02 Том/19.md",
+    "Capital/02 Том/20.md",
+    "Capital/02 Том/21.md",
+    "Capital/02 Том/notes.md",
+    "Capital/02 Том/notes 2.md",
+    "Capital/03 Том/images/cover.jpg",
+    "Capital/03 Том/images/i_001.png",
+    "Capital/03 Том/images/i_002.png",
+    "Capital/03 Том/images/i_003.png",
+    "Capital/03 Том/images/i_004.png",
+    "Capital/03 Том/images/i_005.png",
+    "Capital/03 Том/images/i_006.png",
+    "Capital/03 Том/images/i_007.png",
+    "Capital/03 Том/images/i_008.png",
+    "Capital/03 Том/images/i_009.png",
+    "Capital/03 Том/images/i_010.png",
+    "Capital/03 Том/images/i_011.png",
+    "Capital/03 Том/images/i_012.png",
+    "Capital/03 Том/images/i_013.png",
+    "Capital/03 Том/images/i_014.png",
+    "Capital/03 Том/images/i_015.png",
+    "Capital/03 Том/images/i_016.png",
+    "Capital/03 Том/images/i_017.png",
+    "Capital/03 Том/images/i_018.png",
+    "Capital/03 Том/images/i_019.png",
+    "Capital/03 Том/images/i_020.png",
+    "Capital/03 Том/images/i_021.png",
+    "Capital/03 Том/images/i_022.png",
+    "Capital/03 Том/images/i_023.png",
+    "Capital/03 Том/images/i_024.png",
+    "Capital/03 Том/images/i_025.png",
+    "Capital/03 Том/images/i_026.png",
+    "Capital/03 Том/images/i_027.png",
+    "Capital/03 Том/images/i_028.png",
+    "Capital/03 Том/images/i_029.png",
+    "Capital/03 Том/images/i_030.png",
+    "Capital/03 Том/images/i_031.png",
+    "Capital/03 Том/images/i_032.png",
+    "Capital/03 Том/images/i_033.png",
+    "Capital/03 Том/images/i_034.png",
+    "Capital/03 Том/images/i_035.png",
+    "Capital/03 Том/images/i_036.png",
+    "Capital/03 Том/images/i_037.png",
+    "Capital/03 Том/images/i_038.png",
+    "Capital/03 Том/images/i_039.png",
+    "Capital/03 Том/images/i_040.png",
+    "Capital/03 Том/images/i_041.png",
+    "Capital/03 Том/images/i_042.png",
+    "Capital/03 Том/images/i_043.png",
+    "Capital/03 Том/images/i_044.png",
+    "Capital/03 Том/images/i_045.png",
+    "Capital/03 Том/images/i_046.png",
+    "Capital/03 Том/images/i_047.png",
+    "Capital/03 Том/images/i_048.png",
+    "Capital/03 Том/images/i_049.png",
+    "Capital/03 Том/images/i_050.png",
+    "Capital/03 Том/images/i_051.png",
+    "Capital/03 Том/images/i_052.png",
+    "Capital/03 Том/images/i_053.png",
+    "Capital/03 Том/images/i_054.png",
+    "Capital/03 Том/images/i_055.png",
+    "Capital/03 Том/images/i_056.png",
+    "Capital/03 Том/images/i_057.png",
+    "Capital/03 Том/images/i_058.png",
+    "Capital/03 Том/images/i_059.png",
+    "Capital/03 Том/images/i_060.png",
+    "Capital/03 Том/images/i_061.png",
+    "Capital/03 Том/images/i_062.png",
+    "Capital/03 Том/images/i_063.png",
+    "Capital/03 Том/images/i_064.png",
+    "Capital/03 Том/00.md",
+    "Capital/03 Том/01.md",
+    "Capital/03 Том/02.md",
+    "Capital/03 Том/03.md",
+    "Capital/03 Том/04.md",
+    "Capital/03 Том/05.md",
+    "Capital/03 Том/06.md",
+    "Capital/03 Том/07.md",
+    "Capital/03 Том/08.md",
+    "Capital/03 Том/09.md",
+    "Capital/03 Том/10.md",
+    "Capital/03 Том/11.md",
+    "Capital/03 Том/12.md",
+    "Capital/03 Том/13.md",
+    "Capital/03 Том/14.md",
+    "Capital/03 Том/15.md",
+    "Capital/03 Том/16.md",
+    "Capital/03 Том/17.md",
+    "Capital/03 Том/18.md",
+    "Capital/03 Том/19.md",
+    "Capital/03 Том/20.md",
+    "Capital/03 Том/21.md",
+    "Capital/03 Том/22.md",
+    "Capital/03 Том/23.md",
+    "Capital/03 Том/24.md",
+    "Capital/03 Том/25.md",
+    "Capital/03 Том/26.md",
+    "Capital/03 Том/27.md",
+    "Capital/03 Том/28.md",
+    "Capital/03 Том/29.md",
+    "Capital/03 Том/30.md",
+    "Capital/03 Том/31.md",
+    "Capital/03 Том/32.md",
+    "Capital/03 Том/33.md",
+    "Capital/03 Том/34.md",
+    "Capital/03 Том/35.md",
+    "Capital/03 Том/36.md",
+    "Capital/03 Том/37.md",
+    "Capital/03 Том/38.md",
+    "Capital/03 Том/39.md",
+    "Capital/03 Том/40.md",
+    "Capital/03 Том/41.md",
+    "Capital/03 Том/42.md",
+    "Capital/03 Том/43.md",
+    "Capital/03 Том/44.md",
+    "Capital/03 Том/45.md",
+    "Capital/03 Том/46.md",
+    "Capital/03 Том/47.md",
+    "Capital/03 Том/48.md",
+    "Capital/03 Том/49.md",
+    "Capital/03 Том/50.md",
+    "Capital/03 Том/51.md",
+    "Capital/03 Том/52.md",
+    "Capital/03 Том/notes.md",
+    "index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 118592,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4492,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 129920,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_001.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 20260,
+      "exportedPath": "capital/01-том/images/i_001.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_002.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 12072,
+      "exportedPath": "capital/01-том/images/i_002.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_003.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 12945,
+      "exportedPath": "capital/01-том/images/i_003.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_004.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 45759,
+      "exportedPath": "capital/01-том/images/i_004.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_005.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4133,
+      "exportedPath": "capital/01-том/images/i_005.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_006.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3782,
+      "exportedPath": "capital/01-том/images/i_006.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_007.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1106,
+      "exportedPath": "capital/01-том/images/i_007.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_008.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2375,
+      "exportedPath": "capital/01-том/images/i_008.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_009.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1132,
+      "exportedPath": "capital/01-том/images/i_009.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_010.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2251,
+      "exportedPath": "capital/01-том/images/i_010.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_011.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 929,
+      "exportedPath": "capital/01-том/images/i_011.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_012.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2772,
+      "exportedPath": "capital/01-том/images/i_012.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_013.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1163,
+      "exportedPath": "capital/01-том/images/i_013.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_014.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 951,
+      "exportedPath": "capital/01-том/images/i_014.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_015.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2073,
+      "exportedPath": "capital/01-том/images/i_015.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_016.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1768,
+      "exportedPath": "capital/01-том/images/i_016.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_017.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1363,
+      "exportedPath": "capital/01-том/images/i_017.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_018.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 868,
+      "exportedPath": "capital/01-том/images/i_018.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_019.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1100,
+      "exportedPath": "capital/01-том/images/i_019.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_020.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 859,
+      "exportedPath": "capital/01-том/images/i_020.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_021.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 729,
+      "exportedPath": "capital/01-том/images/i_021.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_022.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2684,
+      "exportedPath": "capital/01-том/images/i_022.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_023.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2442,
+      "exportedPath": "capital/01-том/images/i_023.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_024.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4602,
+      "exportedPath": "capital/01-том/images/i_024.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_025.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2437,
+      "exportedPath": "capital/01-том/images/i_025.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_026.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3006,
+      "exportedPath": "capital/01-том/images/i_026.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_027.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 11133,
+      "exportedPath": "capital/01-том/images/i_027.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_028.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6989,
+      "exportedPath": "capital/01-том/images/i_028.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_029.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3501,
+      "exportedPath": "capital/01-том/images/i_029.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_030.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4611,
+      "exportedPath": "capital/01-том/images/i_030.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_031.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2881,
+      "exportedPath": "capital/01-том/images/i_031.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_032.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 16283,
+      "exportedPath": "capital/01-том/images/i_032.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_033.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2848,
+      "exportedPath": "capital/01-том/images/i_033.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_034.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1951,
+      "exportedPath": "capital/01-том/images/i_034.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_035.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 43292,
+      "exportedPath": "capital/01-том/images/i_035.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_036.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 22165,
+      "exportedPath": "capital/01-том/images/i_036.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_037.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14715,
+      "exportedPath": "capital/01-том/images/i_037.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_038.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3650,
+      "exportedPath": "capital/01-том/images/i_038.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_039.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1585,
+      "exportedPath": "capital/01-том/images/i_039.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_040.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1942,
+      "exportedPath": "capital/01-том/images/i_040.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_041.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5413,
+      "exportedPath": "capital/01-том/images/i_041.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_042.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4705,
+      "exportedPath": "capital/01-том/images/i_042.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_043.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4213,
+      "exportedPath": "capital/01-том/images/i_043.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_044.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3658,
+      "exportedPath": "capital/01-том/images/i_044.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_045.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 517,
+      "exportedPath": "capital/01-том/images/i_045.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_046.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2978,
+      "exportedPath": "capital/01-том/images/i_046.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_047.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 794,
+      "exportedPath": "capital/01-том/images/i_047.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_048.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2113,
+      "exportedPath": "capital/01-том/images/i_048.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_049.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2766,
+      "exportedPath": "capital/01-том/images/i_049.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_050.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4817,
+      "exportedPath": "capital/01-том/images/i_050.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_051.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1629,
+      "exportedPath": "capital/01-том/images/i_051.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_052.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1718,
+      "exportedPath": "capital/01-том/images/i_052.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_053.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1164,
+      "exportedPath": "capital/01-том/images/i_053.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_054.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2462,
+      "exportedPath": "capital/01-том/images/i_054.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_055.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1865,
+      "exportedPath": "capital/01-том/images/i_055.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_056.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2462,
+      "exportedPath": "capital/01-том/images/i_056.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_057.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2462,
+      "exportedPath": "capital/01-том/images/i_057.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_058.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14270,
+      "exportedPath": "capital/01-том/images/i_058.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_059.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2728,
+      "exportedPath": "capital/01-том/images/i_059.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_060.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 9809,
+      "exportedPath": "capital/01-том/images/i_060.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_061.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 13817,
+      "exportedPath": "capital/01-том/images/i_061.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_062.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4331,
+      "exportedPath": "capital/01-том/images/i_062.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_063.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 13195,
+      "exportedPath": "capital/01-том/images/i_063.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_064.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5459,
+      "exportedPath": "capital/01-том/images/i_064.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_065.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3951,
+      "exportedPath": "capital/01-том/images/i_065.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_066.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 25016,
+      "exportedPath": "capital/01-том/images/i_066.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_067.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 16146,
+      "exportedPath": "capital/01-том/images/i_067.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_068.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4726,
+      "exportedPath": "capital/01-том/images/i_068.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_069.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7253,
+      "exportedPath": "capital/01-том/images/i_069.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_070.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3219,
+      "exportedPath": "capital/01-том/images/i_070.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_071.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 25800,
+      "exportedPath": "capital/01-том/images/i_071.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_072.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 12289,
+      "exportedPath": "capital/01-том/images/i_072.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_073.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 11895,
+      "exportedPath": "capital/01-том/images/i_073.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_074.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 20363,
+      "exportedPath": "capital/01-том/images/i_074.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_075.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5346,
+      "exportedPath": "capital/01-том/images/i_075.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_076.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7724,
+      "exportedPath": "capital/01-том/images/i_076.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_077.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 8455,
+      "exportedPath": "capital/01-том/images/i_077.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_078.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 8457,
+      "exportedPath": "capital/01-том/images/i_078.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_079.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 26906,
+      "exportedPath": "capital/01-том/images/i_079.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_080.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 24695,
+      "exportedPath": "capital/01-том/images/i_080.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_081.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 15743,
+      "exportedPath": "capital/01-том/images/i_081.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_082.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 24990,
+      "exportedPath": "capital/01-том/images/i_082.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/images/i_083.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2740,
+      "exportedPath": "capital/01-том/images/i_083.png",
+      "dependencies": []
+    },
+    "Capital/01 Том/00.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 120297,
+      "exportedPath": "capital/01-том/00.html",
+      "dependencies": [
+        "capital/01-том/images/i_001.png",
+        "capital/01-том/images/i_002.png",
+        "capital/01-том/images/i_003.png",
+        "capital/01-том/images/i_004.png"
+      ]
+    },
+    "Capital/01 Том/01.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 201976,
+      "exportedPath": "capital/01-том/01.html",
+      "dependencies": [
+        "capital/01-том/images/i_005.png",
+        "capital/01-том/images/i_006.png"
+      ]
+    },
+    "Capital/01 Том/02.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 32310,
+      "exportedPath": "capital/01-том/02.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/03.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 184563,
+      "exportedPath": "capital/01-том/03.html",
+      "dependencies": [
+        "capital/01-том/images/i_007.png",
+        "capital/01-том/images/i_008.png"
+      ]
+    },
+    "Capital/01 Том/04.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 115651,
+      "exportedPath": "capital/01-том/04.html",
+      "dependencies": [
+        "capital/01-том/images/i_009.png"
+      ]
+    },
+    "Capital/01 Том/05.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 86225,
+      "exportedPath": "capital/01-том/05.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/06.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 48439,
+      "exportedPath": "capital/01-том/06.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/07.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 67114,
+      "exportedPath": "capital/01-том/07.html",
+      "dependencies": [
+        "capital/01-том/images/i_010.png",
+        "capital/01-том/images/i_011.png",
+        "capital/01-том/images/i_012.png",
+        "capital/01-том/images/i_013.png",
+        "capital/01-том/images/i_014.png",
+        "capital/01-том/images/i_015.png",
+        "capital/01-том/images/i_016.png",
+        "capital/01-том/images/i_017.png",
+        "capital/01-том/images/i_018.png",
+        "capital/01-том/images/i_019.png",
+        "capital/01-том/images/i_020.png",
+        "capital/01-том/images/i_021.png",
+        "capital/01-том/images/i_022.png",
+        "capital/01-том/images/i_023.png",
+        "capital/01-том/images/i_024.png",
+        "capital/01-том/images/i_025.png",
+        "capital/01-том/images/i_026.png",
+        "capital/01-том/images/i_027.png",
+        "capital/01-том/images/i_028.png",
+        "capital/01-том/images/i_029.png"
+      ]
+    },
+    "Capital/01 Том/08.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 254644,
+      "exportedPath": "capital/01-том/08.html",
+      "dependencies": [
+        "capital/01-том/images/i_030.png",
+        "capital/01-том/images/i_031.png",
+        "capital/01-том/images/i_032.png"
+      ]
+    },
+    "Capital/01 Том/09.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 38386,
+      "exportedPath": "capital/01-том/09.html",
+      "dependencies": [
+        "capital/01-том/images/i_033.png",
+        "capital/01-том/images/i_034.png"
+      ]
+    },
+    "Capital/01 Том/10.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 40428,
+      "exportedPath": "capital/01-том/10.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/11.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 56773,
+      "exportedPath": "capital/01-том/11.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/12.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 122353,
+      "exportedPath": "capital/01-том/12.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/13.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 497707,
+      "exportedPath": "capital/01-том/13.html",
+      "dependencies": [
+        "capital/01-том/images/i_035.png",
+        "capital/01-том/images/i_036.png",
+        "capital/01-том/images/i_037.png",
+        "capital/01-том/images/i_038.png"
+      ]
+    },
+    "Capital/01 Том/14.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 45057,
+      "exportedPath": "capital/01-том/14.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/15.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 45105,
+      "exportedPath": "capital/01-том/15.html",
+      "dependencies": [
+        "capital/01-том/images/i_039.png",
+        "capital/01-том/images/i_040.png"
+      ]
+    },
+    "Capital/01 Том/16.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 11592,
+      "exportedPath": "capital/01-том/16.html",
+      "dependencies": [
+        "capital/01-том/images/i_041.png",
+        "capital/01-том/images/i_042.png",
+        "capital/01-том/images/i_043.png",
+        "capital/01-том/images/i_044.png",
+        "capital/01-том/images/i_045.png",
+        "capital/01-том/images/i_046.png",
+        "capital/01-том/images/i_045.png",
+        "capital/01-том/images/i_047.png",
+        "capital/01-том/images/i_048.png",
+        "capital/01-том/images/i_049.png",
+        "capital/01-том/images/i_050.png",
+        "capital/01-том/images/i_051.png",
+        "capital/01-том/images/i_051.png",
+        "capital/01-том/images/i_052.png"
+      ]
+    },
+    "Capital/01 Том/17.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 29175,
+      "exportedPath": "capital/01-том/17.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/18.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 27973,
+      "exportedPath": "capital/01-том/18.html",
+      "dependencies": [
+        "capital/01-том/images/i_053.png",
+        "capital/01-том/images/i_054.png",
+        "capital/01-том/images/i_055.png",
+        "capital/01-том/images/i_056.png"
+      ]
+    },
+    "Capital/01 Том/19.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 27708,
+      "exportedPath": "capital/01-том/19.html",
+      "dependencies": [
+        "capital/01-том/images/i_057.png"
+      ]
+    },
+    "Capital/01 Том/20.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 19730,
+      "exportedPath": "capital/01-том/20.html",
+      "dependencies": [
+        "capital/01-том/images/i_058.png"
+      ]
+    },
+    "Capital/01 Том/21.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 59919,
+      "exportedPath": "capital/01-том/21.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/22.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 129543,
+      "exportedPath": "capital/01-том/22.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/23.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 375297,
+      "exportedPath": "capital/01-том/23.html",
+      "dependencies": [
+        "capital/01-том/images/i_060.png",
+        "capital/01-том/images/i_061.png",
+        "capital/01-том/images/i_062.png",
+        "capital/01-том/images/i_063.png",
+        "capital/01-том/images/i_064.png",
+        "capital/01-том/images/i_065.png",
+        "capital/01-том/images/i_066.png",
+        "capital/01-том/images/i_067.png",
+        "capital/01-том/images/i_068.png",
+        "capital/01-том/images/i_069.png",
+        "capital/01-том/images/i_070.png",
+        "capital/01-том/images/i_071.png",
+        "capital/01-том/images/i_072.png",
+        "capital/01-том/images/i_073.png",
+        "capital/01-том/images/i_074.png",
+        "capital/01-том/images/i_075.png",
+        "capital/01-том/images/i_076.png",
+        "capital/01-том/images/i_077.png"
+      ]
+    },
+    "Capital/01 Том/24.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 180654,
+      "exportedPath": "capital/01-том/24.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/25.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 39920,
+      "exportedPath": "capital/01-том/25.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/index.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 0,
+      "exportedPath": "capital/01-том/index.html",
+      "dependencies": []
+    },
+    "Capital/01 Том/notes.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1142609,
+      "exportedPath": "capital/01-том/notes.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/cover.jpg": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 26266,
+      "exportedPath": "capital/02-том/images/cover.jpg",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_001.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14143,
+      "exportedPath": "capital/02-том/images/i_001.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_002.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 15419,
+      "exportedPath": "capital/02-том/images/i_002.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_003.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 713,
+      "exportedPath": "capital/02-том/images/i_003.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_004.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 944,
+      "exportedPath": "capital/02-том/images/i_004.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_005.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 918,
+      "exportedPath": "capital/02-том/images/i_005.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_006.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 47864,
+      "exportedPath": "capital/02-том/images/i_006.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_007.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 39988,
+      "exportedPath": "capital/02-том/images/i_007.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_008.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1313,
+      "exportedPath": "capital/02-том/images/i_008.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_009.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3386,
+      "exportedPath": "capital/02-том/images/i_009.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_010.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 918,
+      "exportedPath": "capital/02-том/images/i_010.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_011.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2482,
+      "exportedPath": "capital/02-том/images/i_011.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_012.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 918,
+      "exportedPath": "capital/02-том/images/i_012.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_013.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1072,
+      "exportedPath": "capital/02-том/images/i_013.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_014.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2997,
+      "exportedPath": "capital/02-том/images/i_014.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_015.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1558,
+      "exportedPath": "capital/02-том/images/i_015.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_016.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 972,
+      "exportedPath": "capital/02-том/images/i_016.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_017.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2449,
+      "exportedPath": "capital/02-том/images/i_017.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_018.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 978,
+      "exportedPath": "capital/02-том/images/i_018.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_019.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 54837,
+      "exportedPath": "capital/02-том/images/i_019.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_020.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2542,
+      "exportedPath": "capital/02-том/images/i_020.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_021.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1108,
+      "exportedPath": "capital/02-том/images/i_021.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_022.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 918,
+      "exportedPath": "capital/02-том/images/i_022.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_023.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1080,
+      "exportedPath": "capital/02-том/images/i_023.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_024.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 900,
+      "exportedPath": "capital/02-том/images/i_024.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_025.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 918,
+      "exportedPath": "capital/02-том/images/i_025.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_026.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5049,
+      "exportedPath": "capital/02-том/images/i_026.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_027.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1005,
+      "exportedPath": "capital/02-том/images/i_027.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_028.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 9405,
+      "exportedPath": "capital/02-том/images/i_028.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_029.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6488,
+      "exportedPath": "capital/02-том/images/i_029.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_030.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6757,
+      "exportedPath": "capital/02-том/images/i_030.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_031.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5905,
+      "exportedPath": "capital/02-том/images/i_031.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_032.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5274,
+      "exportedPath": "capital/02-том/images/i_032.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_033.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7919,
+      "exportedPath": "capital/02-том/images/i_033.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_034.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 24923,
+      "exportedPath": "capital/02-том/images/i_034.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_035.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6469,
+      "exportedPath": "capital/02-том/images/i_035.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_036.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6988,
+      "exportedPath": "capital/02-том/images/i_036.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_037.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 23152,
+      "exportedPath": "capital/02-том/images/i_037.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_038.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7121,
+      "exportedPath": "capital/02-том/images/i_038.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_039.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 10178,
+      "exportedPath": "capital/02-том/images/i_039.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_040.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 10290,
+      "exportedPath": "capital/02-том/images/i_040.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_041.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 8908,
+      "exportedPath": "capital/02-том/images/i_041.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_042.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6875,
+      "exportedPath": "capital/02-том/images/i_042.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_043.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 22362,
+      "exportedPath": "capital/02-том/images/i_043.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_044.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5871,
+      "exportedPath": "capital/02-том/images/i_044.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_045.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 8189,
+      "exportedPath": "capital/02-том/images/i_045.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_046.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 10591,
+      "exportedPath": "capital/02-том/images/i_046.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_047.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4717,
+      "exportedPath": "capital/02-том/images/i_047.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_048.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3333,
+      "exportedPath": "capital/02-том/images/i_048.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_049.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 10210,
+      "exportedPath": "capital/02-том/images/i_049.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_050.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4180,
+      "exportedPath": "capital/02-том/images/i_050.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_051.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4727,
+      "exportedPath": "capital/02-том/images/i_051.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_052.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3785,
+      "exportedPath": "capital/02-том/images/i_052.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_053.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5600,
+      "exportedPath": "capital/02-том/images/i_053.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_054.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7215,
+      "exportedPath": "capital/02-том/images/i_054.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_055.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1536,
+      "exportedPath": "capital/02-том/images/i_055.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_056.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 27347,
+      "exportedPath": "capital/02-том/images/i_056.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_057.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5646,
+      "exportedPath": "capital/02-том/images/i_057.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_058.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2647,
+      "exportedPath": "capital/02-том/images/i_058.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_059.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3196,
+      "exportedPath": "capital/02-том/images/i_059.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_060.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3497,
+      "exportedPath": "capital/02-том/images/i_060.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_061.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2797,
+      "exportedPath": "capital/02-том/images/i_061.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_062.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14185,
+      "exportedPath": "capital/02-том/images/i_062.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_063.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4626,
+      "exportedPath": "capital/02-том/images/i_063.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_064.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5141,
+      "exportedPath": "capital/02-том/images/i_064.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_065.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4561,
+      "exportedPath": "capital/02-том/images/i_065.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_066.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4299,
+      "exportedPath": "capital/02-том/images/i_066.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_067.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4216,
+      "exportedPath": "capital/02-том/images/i_067.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_068.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2978,
+      "exportedPath": "capital/02-том/images/i_068.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_069.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3664,
+      "exportedPath": "capital/02-том/images/i_069.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_070.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6250,
+      "exportedPath": "capital/02-том/images/i_070.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_071.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3920,
+      "exportedPath": "capital/02-том/images/i_071.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_072.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 10295,
+      "exportedPath": "capital/02-том/images/i_072.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_073.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4245,
+      "exportedPath": "capital/02-том/images/i_073.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_074.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 10418,
+      "exportedPath": "capital/02-том/images/i_074.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/images/i_075.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3849,
+      "exportedPath": "capital/02-том/images/i_075.png",
+      "dependencies": []
+    },
+    "Capital/02 Том/00.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 89369,
+      "exportedPath": "capital/02-том/00.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/01.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 171118,
+      "exportedPath": "capital/02-том/01.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/02.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 111796,
+      "exportedPath": "capital/02-том/02.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/03.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 61376,
+      "exportedPath": "capital/02-том/03.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/04.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 100784,
+      "exportedPath": "capital/02-том/04.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/05.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 37177,
+      "exportedPath": "capital/02-том/05.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/06.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 105013,
+      "exportedPath": "capital/02-том/06.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/07.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 17177,
+      "exportedPath": "capital/02-том/07.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/08.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 128064,
+      "exportedPath": "capital/02-том/08.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/09.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 26708,
+      "exportedPath": "capital/02-том/09.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/10.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 127622,
+      "exportedPath": "capital/02-том/10.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/11.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 63941,
+      "exportedPath": "capital/02-том/11.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/12.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 49910,
+      "exportedPath": "capital/02-том/12.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/13.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 49981,
+      "exportedPath": "capital/02-том/13.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/14.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 42138,
+      "exportedPath": "capital/02-том/14.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/15.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 154509,
+      "exportedPath": "capital/02-том/15.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/16.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 122066,
+      "exportedPath": "capital/02-том/16.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/17.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 155925,
+      "exportedPath": "capital/02-том/17.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/18.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 40137,
+      "exportedPath": "capital/02-том/18.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/19.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 163087,
+      "exportedPath": "capital/02-том/19.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/20.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 494194,
+      "exportedPath": "capital/02-том/20.html",
+      "dependencies": [
+        "capital/02-том/images/i_055.png",
+        "capital/02-том/images/i_056.png",
+        "capital/02-том/images/i_057.png",
+        "capital/02-том/images/i_058.png",
+        "capital/02-том/images/i_059.png",
+        "capital/02-том/images/i_060.png",
+        "capital/02-том/images/i_061.png",
+        "capital/02-том/images/i_062.png"
+      ]
+    },
+    "Capital/02 Том/21.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 167216,
+      "exportedPath": "capital/02-том/21.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/notes.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 28040,
+      "exportedPath": "capital/02-том/notes.html",
+      "dependencies": []
+    },
+    "Capital/02 Том/notes 2.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 34634,
+      "exportedPath": "capital/02-том/notes-2.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/cover.jpg": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 26257,
+      "exportedPath": "capital/03-том/images/cover.jpg",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_001.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 530,
+      "exportedPath": "capital/03-том/images/i_001.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_002.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 910,
+      "exportedPath": "capital/03-том/images/i_002.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_003.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1030,
+      "exportedPath": "capital/03-том/images/i_003.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_004.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 72452,
+      "exportedPath": "capital/03-том/images/i_004.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_005.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 43348,
+      "exportedPath": "capital/03-том/images/i_005.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_006.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 58252,
+      "exportedPath": "capital/03-том/images/i_006.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_007.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 70394,
+      "exportedPath": "capital/03-том/images/i_007.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_008.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 56758,
+      "exportedPath": "capital/03-том/images/i_008.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_009.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 16109,
+      "exportedPath": "capital/03-том/images/i_009.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_010.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 104174,
+      "exportedPath": "capital/03-том/images/i_010.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_011.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 85001,
+      "exportedPath": "capital/03-том/images/i_011.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_012.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 108164,
+      "exportedPath": "capital/03-том/images/i_012.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_013.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2318,
+      "exportedPath": "capital/03-том/images/i_013.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_014.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5193,
+      "exportedPath": "capital/03-том/images/i_014.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_015.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7574,
+      "exportedPath": "capital/03-том/images/i_015.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_016.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5526,
+      "exportedPath": "capital/03-том/images/i_016.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_017.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1391,
+      "exportedPath": "capital/03-том/images/i_017.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_018.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2938,
+      "exportedPath": "capital/03-том/images/i_018.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_019.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3006,
+      "exportedPath": "capital/03-том/images/i_019.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_020.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3472,
+      "exportedPath": "capital/03-том/images/i_020.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_021.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3490,
+      "exportedPath": "capital/03-том/images/i_021.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_022.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1694,
+      "exportedPath": "capital/03-том/images/i_022.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_023.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3610,
+      "exportedPath": "capital/03-том/images/i_023.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_024.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3908,
+      "exportedPath": "capital/03-том/images/i_024.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_025.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4222,
+      "exportedPath": "capital/03-том/images/i_025.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_026.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3432,
+      "exportedPath": "capital/03-том/images/i_026.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_027.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3660,
+      "exportedPath": "capital/03-том/images/i_027.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_028.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3563,
+      "exportedPath": "capital/03-том/images/i_028.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_029.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3633,
+      "exportedPath": "capital/03-том/images/i_029.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_030.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3600,
+      "exportedPath": "capital/03-том/images/i_030.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_031.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2028,
+      "exportedPath": "capital/03-том/images/i_031.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_032.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3218,
+      "exportedPath": "capital/03-том/images/i_032.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_033.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4923,
+      "exportedPath": "capital/03-том/images/i_033.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_034.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4619,
+      "exportedPath": "capital/03-том/images/i_034.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_035.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3464,
+      "exportedPath": "capital/03-том/images/i_035.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_036.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4430,
+      "exportedPath": "capital/03-том/images/i_036.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_037.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4205,
+      "exportedPath": "capital/03-том/images/i_037.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_038.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4069,
+      "exportedPath": "capital/03-том/images/i_038.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_039.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4338,
+      "exportedPath": "capital/03-том/images/i_039.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_040.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4444,
+      "exportedPath": "capital/03-том/images/i_040.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_041.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5034,
+      "exportedPath": "capital/03-том/images/i_041.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_042.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5013,
+      "exportedPath": "capital/03-том/images/i_042.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_043.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2749,
+      "exportedPath": "capital/03-том/images/i_043.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_044.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3227,
+      "exportedPath": "capital/03-том/images/i_044.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_045.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3239,
+      "exportedPath": "capital/03-том/images/i_045.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_046.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3396,
+      "exportedPath": "capital/03-том/images/i_046.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_047.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3540,
+      "exportedPath": "capital/03-том/images/i_047.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_048.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2888,
+      "exportedPath": "capital/03-том/images/i_048.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_049.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3150,
+      "exportedPath": "capital/03-том/images/i_049.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_050.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3399,
+      "exportedPath": "capital/03-том/images/i_050.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_051.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3585,
+      "exportedPath": "capital/03-том/images/i_051.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_052.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3201,
+      "exportedPath": "capital/03-том/images/i_052.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_053.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3577,
+      "exportedPath": "capital/03-том/images/i_053.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_054.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3452,
+      "exportedPath": "capital/03-том/images/i_054.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_055.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3879,
+      "exportedPath": "capital/03-том/images/i_055.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_056.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4328,
+      "exportedPath": "capital/03-том/images/i_056.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_057.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3874,
+      "exportedPath": "capital/03-том/images/i_057.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_058.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4128,
+      "exportedPath": "capital/03-том/images/i_058.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_059.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3612,
+      "exportedPath": "capital/03-том/images/i_059.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_060.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3980,
+      "exportedPath": "capital/03-том/images/i_060.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_061.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 719,
+      "exportedPath": "capital/03-том/images/i_061.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_062.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2775,
+      "exportedPath": "capital/03-том/images/i_062.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_063.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 8500,
+      "exportedPath": "capital/03-том/images/i_063.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/images/i_064.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3540,
+      "exportedPath": "capital/03-том/images/i_064.png",
+      "dependencies": []
+    },
+    "Capital/03 Том/00.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 94139,
+      "exportedPath": "capital/03-том/00.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/01.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 64350,
+      "exportedPath": "capital/03-том/01.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/02.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 37242,
+      "exportedPath": "capital/03-том/02.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/03.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 81166,
+      "exportedPath": "capital/03-том/03.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/04.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 28276,
+      "exportedPath": "capital/03-том/04.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/05.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 132370,
+      "exportedPath": "capital/03-том/05.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/06.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 152851,
+      "exportedPath": "capital/03-том/06.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/07.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 16300,
+      "exportedPath": "capital/03-том/07.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/08.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 58307,
+      "exportedPath": "capital/03-том/08.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/09.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 83214,
+      "exportedPath": "capital/03-том/09.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/10.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 127018,
+      "exportedPath": "capital/03-том/10.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/11.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 18751,
+      "exportedPath": "capital/03-том/11.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/12.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 27128,
+      "exportedPath": "capital/03-том/12.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/13.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 99646,
+      "exportedPath": "capital/03-том/13.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/14.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 42497,
+      "exportedPath": "capital/03-том/14.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/15.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 127082,
+      "exportedPath": "capital/03-том/15.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/16.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 61811,
+      "exportedPath": "capital/03-том/16.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/17.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 102929,
+      "exportedPath": "capital/03-том/17.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/18.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 57896,
+      "exportedPath": "capital/03-том/18.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/19.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 30821,
+      "exportedPath": "capital/03-том/19.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/20.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 61790,
+      "exportedPath": "capital/03-том/20.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/21.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 92913,
+      "exportedPath": "capital/03-том/21.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/22.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 49288,
+      "exportedPath": "capital/03-том/22.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/23.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 102981,
+      "exportedPath": "capital/03-том/23.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/24.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 39692,
+      "exportedPath": "capital/03-том/24.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/25.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 79752,
+      "exportedPath": "capital/03-том/25.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/26.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 99949,
+      "exportedPath": "capital/03-том/26.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/27.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 28972,
+      "exportedPath": "capital/03-том/27.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/28.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 80915,
+      "exportedPath": "capital/03-том/28.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/29.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 52492,
+      "exportedPath": "capital/03-том/29.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/30.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 83043,
+      "exportedPath": "capital/03-том/30.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/31.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 47483,
+      "exportedPath": "capital/03-том/31.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/32.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 69849,
+      "exportedPath": "capital/03-том/32.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/33.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 118684,
+      "exportedPath": "capital/03-том/33.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/34.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 81994,
+      "exportedPath": "capital/03-том/34.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/35.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 127499,
+      "exportedPath": "capital/03-том/35.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/36.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 91285,
+      "exportedPath": "capital/03-том/36.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/37.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 118648,
+      "exportedPath": "capital/03-том/37.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/38.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 42519,
+      "exportedPath": "capital/03-том/38.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/39.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 103387,
+      "exportedPath": "capital/03-том/39.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/40.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 55585,
+      "exportedPath": "capital/03-том/40.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/41.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 32483,
+      "exportedPath": "capital/03-том/41.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/42.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 60686,
+      "exportedPath": "capital/03-том/42.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/43.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 86089,
+      "exportedPath": "capital/03-том/43.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/44.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 41718,
+      "exportedPath": "capital/03-том/44.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/45.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 123491,
+      "exportedPath": "capital/03-том/45.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/46.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 38762,
+      "exportedPath": "capital/03-том/46.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/47.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 157732,
+      "exportedPath": "capital/03-том/47.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/48.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 87587,
+      "exportedPath": "capital/03-том/48.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/49.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 89263,
+      "exportedPath": "capital/03-том/49.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/50.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 118316,
+      "exportedPath": "capital/03-том/50.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/51.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 34384,
+      "exportedPath": "capital/03-том/51.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/52.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4798,
+      "exportedPath": "capital/03-том/52.html",
+      "dependencies": []
+    },
+    "Capital/03 Том/notes.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 413446,
+      "exportedPath": "capital/03-том/notes.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 0,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_001.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 20260,
+      "exportedPath": "capital/01-том/images/i_001.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_002.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 12072,
+      "exportedPath": "capital/01-том/images/i_002.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_003.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 12945,
+      "exportedPath": "capital/01-том/images/i_003.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_004.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 45759,
+      "exportedPath": "capital/01-том/images/i_004.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_005.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4133,
+      "exportedPath": "capital/01-том/images/i_005.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_006.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3782,
+      "exportedPath": "capital/01-том/images/i_006.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_007.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1106,
+      "exportedPath": "capital/01-том/images/i_007.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_008.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2375,
+      "exportedPath": "capital/01-том/images/i_008.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_009.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1132,
+      "exportedPath": "capital/01-том/images/i_009.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_010.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2251,
+      "exportedPath": "capital/01-том/images/i_010.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_011.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 929,
+      "exportedPath": "capital/01-том/images/i_011.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_012.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2772,
+      "exportedPath": "capital/01-том/images/i_012.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_013.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1163,
+      "exportedPath": "capital/01-том/images/i_013.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_014.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 951,
+      "exportedPath": "capital/01-том/images/i_014.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_015.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2073,
+      "exportedPath": "capital/01-том/images/i_015.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_016.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1768,
+      "exportedPath": "capital/01-том/images/i_016.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_017.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1363,
+      "exportedPath": "capital/01-том/images/i_017.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_018.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 868,
+      "exportedPath": "capital/01-том/images/i_018.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_019.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1100,
+      "exportedPath": "capital/01-том/images/i_019.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_020.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 859,
+      "exportedPath": "capital/01-том/images/i_020.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_021.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 729,
+      "exportedPath": "capital/01-том/images/i_021.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_022.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2684,
+      "exportedPath": "capital/01-том/images/i_022.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_023.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2442,
+      "exportedPath": "capital/01-том/images/i_023.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_024.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4602,
+      "exportedPath": "capital/01-том/images/i_024.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_025.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2437,
+      "exportedPath": "capital/01-том/images/i_025.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_026.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3006,
+      "exportedPath": "capital/01-том/images/i_026.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_027.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 11133,
+      "exportedPath": "capital/01-том/images/i_027.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_028.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 6989,
+      "exportedPath": "capital/01-том/images/i_028.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_029.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3501,
+      "exportedPath": "capital/01-том/images/i_029.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_030.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4611,
+      "exportedPath": "capital/01-том/images/i_030.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_031.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2881,
+      "exportedPath": "capital/01-том/images/i_031.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_032.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 16283,
+      "exportedPath": "capital/01-том/images/i_032.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_033.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2848,
+      "exportedPath": "capital/01-том/images/i_033.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_034.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1951,
+      "exportedPath": "capital/01-том/images/i_034.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_035.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 43292,
+      "exportedPath": "capital/01-том/images/i_035.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_036.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 22165,
+      "exportedPath": "capital/01-том/images/i_036.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_037.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14715,
+      "exportedPath": "capital/01-том/images/i_037.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_038.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3650,
+      "exportedPath": "capital/01-том/images/i_038.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_039.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1585,
+      "exportedPath": "capital/01-том/images/i_039.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_040.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1942,
+      "exportedPath": "capital/01-том/images/i_040.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_041.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5413,
+      "exportedPath": "capital/01-том/images/i_041.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_042.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4705,
+      "exportedPath": "capital/01-том/images/i_042.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_043.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4213,
+      "exportedPath": "capital/01-том/images/i_043.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_044.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3658,
+      "exportedPath": "capital/01-том/images/i_044.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_045.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 517,
+      "exportedPath": "capital/01-том/images/i_045.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_046.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2978,
+      "exportedPath": "capital/01-том/images/i_046.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_047.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 794,
+      "exportedPath": "capital/01-том/images/i_047.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_048.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2113,
+      "exportedPath": "capital/01-том/images/i_048.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_049.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2766,
+      "exportedPath": "capital/01-том/images/i_049.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_050.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4817,
+      "exportedPath": "capital/01-том/images/i_050.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_051.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1629,
+      "exportedPath": "capital/01-том/images/i_051.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_052.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1718,
+      "exportedPath": "capital/01-том/images/i_052.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_053.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1164,
+      "exportedPath": "capital/01-том/images/i_053.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_054.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2462,
+      "exportedPath": "capital/01-том/images/i_054.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_055.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1865,
+      "exportedPath": "capital/01-том/images/i_055.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_056.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2462,
+      "exportedPath": "capital/01-том/images/i_056.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_057.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2462,
+      "exportedPath": "capital/01-том/images/i_057.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_058.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14270,
+      "exportedPath": "capital/01-том/images/i_058.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_060.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 9809,
+      "exportedPath": "capital/01-том/images/i_060.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_061.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 13817,
+      "exportedPath": "capital/01-том/images/i_061.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_062.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4331,
+      "exportedPath": "capital/01-том/images/i_062.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_063.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 13195,
+      "exportedPath": "capital/01-том/images/i_063.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_064.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5459,
+      "exportedPath": "capital/01-том/images/i_064.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_065.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3951,
+      "exportedPath": "capital/01-том/images/i_065.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_066.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 25016,
+      "exportedPath": "capital/01-том/images/i_066.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_067.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 16146,
+      "exportedPath": "capital/01-том/images/i_067.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_068.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 4726,
+      "exportedPath": "capital/01-том/images/i_068.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_069.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7253,
+      "exportedPath": "capital/01-том/images/i_069.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_070.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3219,
+      "exportedPath": "capital/01-том/images/i_070.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_071.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 25800,
+      "exportedPath": "capital/01-том/images/i_071.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_072.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 12289,
+      "exportedPath": "capital/01-том/images/i_072.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_073.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 11895,
+      "exportedPath": "capital/01-том/images/i_073.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_074.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 20363,
+      "exportedPath": "capital/01-том/images/i_074.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_075.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5346,
+      "exportedPath": "capital/01-том/images/i_075.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_076.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 7724,
+      "exportedPath": "capital/01-том/images/i_076.png",
+      "dependencies": []
+    },
+    "capital/01-том/images/i_077.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 8455,
+      "exportedPath": "capital/01-том/images/i_077.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_055.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 1536,
+      "exportedPath": "capital/02-том/images/i_055.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_056.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 27347,
+      "exportedPath": "capital/02-том/images/i_056.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_057.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 5646,
+      "exportedPath": "capital/02-том/images/i_057.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_058.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2647,
+      "exportedPath": "capital/02-том/images/i_058.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_059.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3196,
+      "exportedPath": "capital/02-том/images/i_059.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_060.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 3497,
+      "exportedPath": "capital/02-том/images/i_060.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_061.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 2797,
+      "exportedPath": "capital/02-том/images/i_061.png",
+      "dependencies": []
+    },
+    "capital/02-том/images/i_062.png": {
+      "modifiedTime": 1718477100145,
+      "sourceSize": 14185,
+      "exportedPath": "capital/02-том/images/i_062.png",
+      "dependencies": []
+    }
+  }
+}
